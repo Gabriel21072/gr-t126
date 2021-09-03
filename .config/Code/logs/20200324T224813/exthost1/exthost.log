@@ -1,0 +1,40 @@
+[2020-03-24 22:48:23.463] [exthost] [info] extension host started
+[2020-03-24 22:48:23.719] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2020-03-24 22:48:23.720] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/28/usr/share/code/resources/app/extensions/python/dist/pythonMain
+[2020-03-24 22:48:23.732] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2020-03-24 22:48:23.733] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aluno/.vscode/extensions/ms-python.python-2020.3.69010/out/client/extension
+[2020-03-24 22:48:25.310] [exthost] [info] ExtensionService#_doActivateExtension tht13.python {"startup":false,"extensionId":{"value":"tht13.python","_lower":"tht13.python"},"activationEvent":"onLanguage:python"}
+[2020-03-24 22:48:25.310] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/aluno/.vscode/extensions/tht13.python-0.2.3/out/client/src/pythonMain
+[2020-03-24 22:48:25.476] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-03-24 22:48:25.476] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/28/usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-03-24 22:48:25.488] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-03-24 22:48:25.492] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/28/usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-03-24 22:48:25.547] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-03-24 22:48:25.552] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/28/usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-03-24 22:48:25.643] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2020-03-24 22:48:25.650] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/28/usr/share/code/resources/app/extensions/npm/dist/main
+[2020-03-24 22:48:25.698] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2020-03-24 22:48:25.699] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/28/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-03-24 22:48:25.913] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-03-24 22:48:25.914] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/28/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-03-24 22:48:25.924] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-03-24 22:48:25.930] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/28/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-03-24 22:48:25.998] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-03-24 22:48:26.001] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/28/usr/share/code/resources/app/extensions/git/dist/main
+[2020-03-24 22:48:26.211] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-03-24 22:48:26.222] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/28/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-03-24 22:48:26.236] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-03-24 22:48:26.236] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/28/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-03-24 22:48:26.252] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-03-24 22:48:26.252] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/28/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-03-24 22:48:26.259] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-03-24 22:48:26.262] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/28/usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-03-24 22:48:26.293] [exthost] [info] eager extensions activated
+[2020-03-24 22:48:29.051] [exthost] [error] Activating extension tht13.python failed due to an error:
+[2020-03-24 22:48:29.056] [exthost] [error] TypeError: Cannot read property 'document' of undefined
+	at PythonExtension.startServer (/home/aluno/.vscode/extensions/tht13.python-0.2.3/out/client/src/pythonMain.js:154:55)
+	at activate (/home/aluno/.vscode/extensions/tht13.python-0.2.3/out/client/src/pythonMain.js:9:38)
+	at Function._callActivateOptional (/snap/code/28/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:722:204)
+	at Function._callActivate (/snap/code/28/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:721:862)
+	at /snap/code/28/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:720:960
+	at async Promise.all (index 2)

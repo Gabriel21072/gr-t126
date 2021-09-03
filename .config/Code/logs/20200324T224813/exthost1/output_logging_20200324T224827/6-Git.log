@@ -1,0 +1,45 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/aluno/Programs/gr-t126
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :python/mapper_v0.py
+> git ls-files --stage -- /home/aluno/Programs/gr-t126/python/mapper_v0.py
+Failed to watch ref '/home/aluno/Programs/gr-t126/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/aluno/Programs/gr-t126/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/28/usr/share/code/resources/app/extensions/git/dist/main.js:1:596789)
+	at E.updateTransientWatchers (/snap/code/28/usr/share/code/resources/app/extensions/git/dist/main.js:1:82747)
+	at l.fire (/snap/code/28/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:865)
+	at R.updateModelState (/snap/code/28/usr/share/code/resources/app/extensions/git/dist/main.js:1:101605)
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git cat-file -s e7a00f0282f47a6aa4d25e2c26932b23a05792b4
+> git check-ignore -v -z --stdin
+> git show :grc/t126_mapper_v0.xml
+> git ls-files --stage -- /home/aluno/Programs/gr-t126/grc/t126_mapper_v0.xml
+> git cat-file -s 67311c9acf8b552577e9205f8ae6d0ded0872497
+> git show :python/mapper_v0.py
+> git ls-files --stage -- /home/aluno/Programs/gr-t126/python/mapper_v0.py
+> git cat-file -s e7a00f0282f47a6aa4d25e2c26932b23a05792b4
+> git check-ignore -v -z --stdin
+> git show :python/qa_mapper_v0.py
+> git ls-files --stage -- /home/aluno/Programs/gr-t126/python/qa_mapper_v0.py
+> git cat-file -s a40245e333e607e8bf34ded8e1e48e32524841c1
+> git show :grc/t126_mapper_v0.xml
+> git ls-files --stage -- /home/aluno/Programs/gr-t126/grc/t126_mapper_v0.xml
+> git cat-file -s 67311c9acf8b552577e9205f8ae6d0ded0872497
+> git show :python/qa_mapper_v0.py
+> git ls-files --stage -- /home/aluno/Programs/gr-t126/python/qa_mapper_v0.py
+> git cat-file -s a40245e333e607e8bf34ded8e1e48e32524841c1
+> git show :python/mapper_v0.py
+> git ls-files --stage -- /home/aluno/Programs/gr-t126/python/mapper_v0.py
+> git cat-file -s e7a00f0282f47a6aa4d25e2c26932b23a05792b4

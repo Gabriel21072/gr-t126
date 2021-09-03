@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="0" last-seen="1630692525"/>
+    <application id="firefox.desktop" open-window-count="1" score="27" last-seen="1630692655"/>
+    <application id="gnuradio-grc.desktop" open-window-count="0" score="22" last-seen="1630693017"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="20" last-seen="1630693005"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="24" last-seen="1630693118"/>
+    <application id="evince.desktop" open-window-count="1" score="3" last-seen="1630693090"/>
+  </context>
+</application-state>

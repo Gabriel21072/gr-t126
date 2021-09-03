@@ -1,0 +1,14 @@
+[2020-03-24 00:16:55.802] [sharedprocess] [info] main {"machineId":"d2b99175e1bea1c1ba4b240fa72642060a056bbfe8a080503268edbfd3b6adfb","windowId":2}
+[2020-03-24 00:17:35.924] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-03-24 00:17:43.995] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-03-24 00:17:46.400] [sharedprocess] [info] Installing extension: tht13.python
+[2020-03-24 00:17:47.267] [sharedprocess] [info] Downloaded extension: tht13.python /tmp/bf203c93-753c-45d1-a820-e3bf45190044
+[2020-03-24 00:17:48.425] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/7c0e2e0e-b508-4f53-9ec5-84c73397f10f
+[2020-03-24 00:17:49.431] [sharedprocess] [info] Extracted extension to /home/aluno/.vscode/extensions/.tht13.python-0.2.3: tht13.python
+[2020-03-24 00:17:49.432] [sharedprocess] [info] Renamed to /home/aluno/.vscode/extensions/tht13.python-0.2.3
+[2020-03-24 00:17:49.450] [sharedprocess] [info] Installation completed. tht13.python
+[2020-03-24 00:17:49.477] [sharedprocess] [info] Extensions installed successfully: tht13.python
+[2020-03-24 00:17:57.857] [sharedprocess] [info] Extracted extension to /home/aluno/.vscode/extensions/.ms-python.python-2020.3.69010: ms-python.python
+[2020-03-24 00:17:57.857] [sharedprocess] [info] Renamed to /home/aluno/.vscode/extensions/ms-python.python-2020.3.69010
+[2020-03-24 00:17:57.875] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-03-24 00:17:57.916] [sharedprocess] [info] Extensions installed successfully: ms-python.python

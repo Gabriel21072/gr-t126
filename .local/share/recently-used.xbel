@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/aluno/Documents/T126.zip" added="2021-09-03T18:08:09Z" modified="2021-09-03T18:08:56Z" visited="2021-09-03T18:08:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-09-03T18:08:09Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-09-03T18:08:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aluno/Documents/T126/Exemplos_GNU_Radio/anexos" added="2021-09-03T18:08:28Z" modified="2021-09-03T18:10:00Z" visited="2021-09-03T18:08:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-09-03T18:08:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aluno/Documents/T126/Exemplos_GNU_Radio/Aula2/first_contact_with_gnuradio.grc" added="2021-09-03T18:11:16Z" modified="2021-09-03T18:12:51Z" visited="2021-09-03T18:11:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/gnuradio-grc"/>
+        <bookmark:applications>
+          <bookmark:application name="gnuradio-companion" exec="&apos;gnuradio-companion %u&apos;" modified="2021-09-03T18:12:51Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/aluno/Documents/T126/T126%20-%20Aula%20%2302/T126%20-%20Notas%20de%20Aula%20(aula%2002).pdf" added="2021-09-03T18:14:22Z" modified="2021-09-03T18:14:22Z" visited="2021-09-03T18:14:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2021-09-03T18:14:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
